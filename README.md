@@ -1,1 +1,1 @@
-# AppliedAI-Assignements
+# AppliedAI-Assignments
